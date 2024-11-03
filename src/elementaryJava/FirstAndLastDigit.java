@@ -1,16 +1,15 @@
 package elementaryJava;
 
 public class FirstAndLastDigit {
-    public static int sumFirstAndLastDigit(int number){
+    public static int sumFirstAndLastDigit(int number) {
         int lastDigit = number % 10;
         int firstDigit;
-        if (number < 0){
+        if (number < 0) {
             return -1;
-        }
-        else{
+        } else {
 
             int i = number;
-            while (i > 0){
+            while (i > 0) {
                 if (i <= 10)
                     firstDigit = i;
                 i = i / 10;
