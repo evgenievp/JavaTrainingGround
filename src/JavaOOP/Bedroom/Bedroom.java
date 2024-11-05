@@ -1,4 +1,4 @@
-package Bedroom;
+package JavaOOP.Bedroom;
 
 public class Bedroom {
 
@@ -27,7 +27,7 @@ public class Bedroom {
     }
 
     public void makeBed() {
-        System.out.print("Bedroom -> Making bed");
+        System.out.print("JavaOOP.Bedroom -> Making bed");
         bed.make();
     }
 

@@ -1,4 +1,4 @@
-package Bedroom;
+package JavaOOP.Bedroom;
 
 public class Lamp {
     private String style;
