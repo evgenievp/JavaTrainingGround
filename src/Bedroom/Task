@@ -1,0 +1,4 @@
+This package is example of using Java conception of "Composition".
+Since Java doesn't support multiple inheritance, the way of do such things is
+to assembly different classes by calling instance of different classes in one Class.
+This allows all pieces of code to work as one object.
