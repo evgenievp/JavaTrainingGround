@@ -1,3 +1,5 @@
+package JavaOOP.EmployeeAnother;
+
 public class Worker {
     private String name;
     private String birthDate;

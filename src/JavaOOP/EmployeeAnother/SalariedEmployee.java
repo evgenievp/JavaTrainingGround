@@ -1,3 +1,5 @@
+package JavaOOP.EmployeeAnother;
+
 public class SalariedEmployee extends EmployeeAnother{
 
     private double annaulSalary;

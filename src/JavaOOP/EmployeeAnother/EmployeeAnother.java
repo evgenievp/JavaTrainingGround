@@ -1,3 +1,5 @@
+package JavaOOP.EmployeeAnother;
+
 public class EmployeeAnother extends Worker {
 
     public long employeeId;
