@@ -3,7 +3,7 @@ package elementaryJava;
 public class FirstAndLastDigit {
     public static int sumFirstAndLastDigit(int number) {
         int lastDigit = number % 10;
-        int firstDigit;
+        int firstDigit =1;
         if (number < 0) {
             return -1;
         } else {
