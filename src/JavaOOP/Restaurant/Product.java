@@ -1,4 +1,4 @@
-package Restaurant;
+package JavaOOP.Restaurant;
 
 public class Product {
     private String type;

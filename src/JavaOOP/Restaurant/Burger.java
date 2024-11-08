@@ -1,4 +1,4 @@
-package Restaurant;
+package JavaOOP.Restaurant;
 
 public class Burger {
     private String type;
